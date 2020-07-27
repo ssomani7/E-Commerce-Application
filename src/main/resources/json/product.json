@@ -1,0 +1,153 @@
+[{
+  "ID": 1,
+  "Name": "P1",
+  "Price": 970,
+  "SalesCount": 300,
+  "Category": "A",
+  "Cust_Rating": 3.7
+},
+  {
+    "ID": 2,
+    "Name": "P2",
+    "Price": 1170,
+    "SalesCount": 718,
+    "Category": "A",
+    "Cust_Rating": 3.8
+  },
+  {
+    "ID": 3,
+    "Name": "P3",
+    "Price": 1090,
+    "SalesCount": 1253,
+    "Category": "A",
+    "Cust_Rating": 0.5
+  },
+  {
+    "ID": 4,
+    "Name": "P4",
+    "Price": 3180,
+    "SalesCount": 1920,
+    "Category": "A",
+    "Cust_Rating": 1.3
+  },
+  {
+    "ID": 5,
+    "Name": "P5",
+    "Price": 260,
+    "SalesCount": 1965,
+    "Category": "A",
+    "Cust_Rating": 2.4
+  },
+  {
+    "ID": 6,
+    "Name": "P6",
+    "Price": 520,
+    "SalesCount": 2029,
+    "Category": "A",
+    "Cust_Rating": 3.9
+  },
+  {
+    "ID": 7,
+    "Name": "P7",
+    "Price": 2640,
+    "SalesCount": 2465,
+    "Category": "A",
+    "Cust_Rating": 0.4
+  },
+  {
+    "ID": 8,
+    "Name": "P8",
+    "Price": 1240,
+    "SalesCount": 3380,
+    "Category": "A",
+    "Cust_Rating": 0.2
+  },
+  {
+    "ID": 9,
+    "Name": "P9",
+    "Price": 3330,
+    "SalesCount": 3736,
+    "Category": "A",
+    "Cust_Rating": 0.3
+  },
+  {
+    "ID": 10,
+    "Name": "P10",
+    "Price": 7240,
+    "SalesCount": 3728,
+    "Category": "A",
+    "Cust_Rating": 3.4
+  },
+  {
+    "ID": 11,
+    "Name": "P11",
+    "Price": 2830,
+    "SalesCount": 4072,
+    "Category": "A",
+    "Cust_Rating": 0.9
+  },
+  {
+    "ID": 12,
+    "Name": "P12",
+    "Price": 5690,
+    "SalesCount": 4183,
+    "Category": "A",
+    "Cust_Rating": 4.6
+  },
+  {
+    "ID": 13,
+    "Name": "P13",
+    "Price": 7040,
+    "SalesCount": 5289,
+    "Category": "A",
+    "Cust_Rating": 4.8
+  },
+  {
+    "ID": 14,
+    "Name": "P14",
+    "Price": 10140,
+    "SalesCount": 4668,
+    "Category": "A",
+    "Cust_Rating": 2.3
+  },
+  {
+    "ID": 15,
+    "Name": "P15",
+    "Price": 14700,
+    "SalesCount": 5205,
+    "Category": "A",
+    "Cust_Rating": 0
+  },
+  {
+    "ID": 16,
+    "Name": "P16",
+    "Price": 14870,
+    "SalesCount": 5024,
+    "Category": "A",
+    "Cust_Rating": 0.6
+  },
+  {
+    "ID": 17,
+    "Name": "P17",
+    "Price": 10540,
+    "SalesCount": 6081,
+    "Category": "A",
+    "Cust_Rating": 4.8
+  },
+  {
+    "ID": 18,
+    "Name": "P18",
+    "Price": 17330,
+    "SalesCount": 8642,
+    "Category": "A",
+    "Cust_Rating": 1.5
+  },
+  {
+    "ID": 19,
+    "Name": "P19",
+    "Price": 9800,
+    "SalesCount": 7593,
+    "Category": "A",
+    "Cust_Rating": 0.5
+  }
+]
